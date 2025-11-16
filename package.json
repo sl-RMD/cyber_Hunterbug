@@ -1,0 +1,21 @@
+{
+  "name": "dtzcrasher",
+  "version": "3.6.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "latest",
+    "@whiskeysockets/baileys": "npm:dgxeon-soket@^4.0.0",
+    "chalk": "^4.1.2",
+    "crypto": "latest",
+    "dotenv": "^16.4.7",
+    "pino": "^9.6.0",
+    "node-telegram-bot-api": "^0.61.0"
+  },
+  "keywords": [],
+  "author": "XATANICAL",
+  "license": "ISC",
+  "description": " DTZ CRASHER CREATE BY OLD CRAZY DINA  "
+}
